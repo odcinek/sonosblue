@@ -5,8 +5,9 @@ Sonos hardware does not support bluetooth. The suggested solution seems to be us
 That solution is very limited, as it:
 * does not provide multiple bluetooth targets
 * works only with line-in enabled speakers
+* requires standalone peripheral
 
-Enter this effort. It should be possible to hack it together, with bluetooth capable home server / rapsberry pi.
+Enter this effort. It should be possible to hack it together, on bluetooth capable home server / rapsberry pi.
 
 # Contributing
 
